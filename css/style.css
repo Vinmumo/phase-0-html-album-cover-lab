@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 3.5em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -76,7 +76,7 @@ img {
 }
 
 .wrapper {
-  width: 800px;
+  width: 900px;
   margin: 0 auto;
   /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
 }
@@ -104,7 +104,7 @@ img {
 }
 
 #title-box {
-  width: 252px;
+  width: 260px;
   height: 165px;
   background: rgba(247,211,27,1);
   margin-left: 163px;
